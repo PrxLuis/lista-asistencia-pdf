@@ -98,7 +98,7 @@ tr:nth-child(even) {
 }
 
 .selected {
-  background-color: green !important;
+  background-color: #F6FA70 !important;
 }
 
 table {
